@@ -1,0 +1,34 @@
+﻿@model CopaDoMundo.Models.Selecao
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <fieldset> 
+    <legend>Selecao</legend> 
+    <div class="editor-label"> 
+         @Html.LabelFor(model => model.Pais) 
+     </div> 
+     <div class="editor-field"> 
+         @Html.EditorFor(model => model.Pais) 
+         @Html.ValidationMessageFor(model => model.Pais) 
+     </div> 
+    <div class="editor-label"> 
+         @Html.LabelFor(model => model.Tecnico) 
+     </div> 
+     <div class="editor-field"> 
+         @Html.EditorFor(model => model.Tecnico) 
+         @Html.ValidationMessageFor(model => model.Tecnico) 
+      </div> 
+     <p>  <input type="submit" value="Create" />  </p> 
+    </fieldset>
+}
+
+<div> 
+     @Html.ActionLink("Listagem de Seleções", "Index") 
+</div>

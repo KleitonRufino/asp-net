@@ -1,0 +1,10 @@
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\bin\Debug\EntityFram.exe.config
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\bin\Debug\EntityFram.exe
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\bin\Debug\EntityFram.pdb
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\bin\Debug\EntityFramework.dll
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\bin\Debug\EntityFramework.xml
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\obj\Debug\EntityFram.csprojResolveAssemblyReference.cache
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\obj\Debug\EntityFram.exe
+c:\users\kleiton\documents\visual studio 2015\Projects\EntityFram\EntityFram\obj\Debug\EntityFram.pdb

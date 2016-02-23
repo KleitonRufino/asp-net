@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Desconhecido";
+}
+
+
+<h2>Desculpe , tivemos problema em nosso servidor. Volte dentro de alguns instantes.</h2> 
+<p>Envie uma mensagem para os administradores do sistema.</p> 
+@using(Html.BeginForm("Envia", "Email"))
+{
+    <div>
+        @Html.Label("Mensagem") 
+    </div>
+    <div>
+        @Html.TextArea("Mensagem")
+    </div>
+    <input type="submit" value="Enviar"/>
+}
